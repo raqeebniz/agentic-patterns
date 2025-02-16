@@ -8,11 +8,16 @@ authors = [
 ]
 requires-python = ">=3.11"
 dependencies = [
+    "bs4>=0.0.2",
     "crewai>=0.102.0",
+    "litellm>=1.60.2",
+    "tavily-python>=0.5.1",
 ]
 
 [project.scripts]
-agentic-patterns = "agentic_patterns:main"
+agentic-patterns = "agentic_patterns.workflows.research_workflow:kickoff"
+chain = "agentic_patterns.chain_of_thought:run"
+plot_chain = "agentic_patterns.chain_of_thought:plot" 
 
 [build-system]
 requires = ["hatchling"]

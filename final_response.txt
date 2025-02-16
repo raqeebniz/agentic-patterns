@@ -1,0 +1,9 @@
+The response "None" is unhelpful and unprofessional.  To polish it, I need more context.  Please tell me what question the response "None" was supposed to answer.  Then I can craft a more engaging and professional alternative.
+
+For example, if the question was "What are your concerns regarding the product?", a better response might be:
+
+* **"I'm very happy with the product so far.  I don't have any specific concerns at this time."** (if truly happy)
+* **"I haven't experienced any major issues, but I would appreciate it if [specific feature or aspect] could be improved."** (if minor issues exist)
+* **"While I'm generally pleased, I do have a couple of questions about [specific feature] and would appreciate some clarification."** (if seeking further information)
+
+Provide me with the original question, and I will give you a much better response.
