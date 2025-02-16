@@ -18,6 +18,8 @@ dependencies = [
 agentic-patterns = "agentic_patterns.workflows.research_workflow:kickoff"
 chain = "agentic_patterns.chain_of_thought:run"
 plot_chain = "agentic_patterns.chain_of_thought:plot" 
+routing = "agentic_patterns.routing:run"
+routing_plot = "agentic_patterns.routing:plot"
 
 [build-system]
 requires = ["hatchling"]
